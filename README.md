@@ -18,17 +18,17 @@ Technically, the objective was to put into practice what we had learned on **HTM
 ## Screenshots
 
 <div style="display:flex; justify-content:center; align-items: center; flex-wrap: wrap; margin: 10px;">
-<img src="/screenshots/desktop-homepage.png" alt="desktop homepage"/>
-<img src="/screenshots/desktop-profile.png" alt="desktop profile"/>
-<img src="/screenshots/desktop-form.png" alt="desktop form"/>
-<img src="/screenshots/desktop-gallery.png" alt="desktop gallery"/>
-<img src="/screenshots/desktop-picture-samples.png" alt="desktop picture samples"/>
+<img style='width:100px' src="/screenshots/desktop-homepage.png" alt="desktop homepage"/>
+<img style='width:100px' src="/screenshots/desktop-profile.png" alt="desktop profile"/>
+<img style='width:100px' src="/screenshots/desktop-form.png" alt="desktop form"/>
+<img style='width:100px' src="/screenshots/desktop-gallery.png" alt="desktop gallery"/>
+<img style='width:100px' src="/screenshots/desktop-picture-samples.png" alt="desktop picture samples"/>
 </div>
 
 <div style="display:flex; justify-content:center; align-items: center; flex-wrap: wrap; margin: 10px;">
-<img src="/screenshots/mobile-homepage.png" alt="mobile homepage"/>
-<img src="/screenshots/mobile-form.png" alt="mobile form"/>
-<img src="/screenshots/mobile-gallery.png" alt="mobile gallery"/>
+<img style='width:100px' src="/screenshots/mobile-homepage.png" alt="mobile homepage"/>
+<img style='width:100px' src="/screenshots/mobile-form.png" alt="mobile form"/>
+<img style='width:100px' src="/screenshots/mobile-gallery.png" alt="mobile gallery"/>
 </div>
 
 ## Hosting
