@@ -1,5 +1,5 @@
 ## Bob-Colibri.com
-<a href="https://sebg-prog.github.io/Bob-Colibri.com/" target="_blank">The website can be found here!</a>
+[The website can be found here!](https://sebg-prog.github.io/Bob-Colibri.com/)
 
 ### The Project
 This was our first internal project at the [Wild Code School](https://www.wildcodeschool.com/en-GB) (4 days of code, a week after the beginning of the Bootcamp). The main instruction was to develop **a responsive website** for a fictional photographer.
@@ -17,7 +17,7 @@ Technically, the objective was to put into practice what we had learned on **HTM
 
 ## Screenshots
 
-<div style="display:flex; justifyContent:center; alignItems: center; flex-wrap: wrap; margin: 10px;">
+<div>
 <img width="250" src="/screenshots/desktop-homepage.png" alt="desktop homepage"/>
 <img width="250" src="/screenshots/desktop-profile.png" alt="desktop profile"/>
 <img width="250" src="/screenshots/desktop-form.png" alt="desktop form"/>
@@ -25,7 +25,7 @@ Technically, the objective was to put into practice what we had learned on **HTM
 <img width="250" src="/screenshots/desktop-picture-samples.png" alt="desktop picture samples"/>
 </div>
 
-<div style="display:flex; justify-content:center; align-items: center; flex-wrap: wrap; margin: 10px;">
+<div>
 <img height="200" src="/screenshots/mobile-homepage.png" alt="mobile homepage"/>
 <img height="200" src="/screenshots/mobile-form.png" alt="mobile form"/>
 <img height="200" src="/screenshots/mobile-gallery.png" alt="mobile gallery"/>
