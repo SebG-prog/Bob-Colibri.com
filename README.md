@@ -15,7 +15,7 @@ Technically, the objective was to put into practice what we had learned on **HTM
 * Jimmy Boucaud [Github](https://github.com/Jimbeck2403)  
 * Elhadj Bah [Github](https://github.com/Elhadj75BAH)  
 
-## Screenshots
+### Screenshots
 
 <div>
 <img width="250" src="/screenshots/desktop-homepage.png" alt="desktop homepage"/>
@@ -31,6 +31,6 @@ Technically, the objective was to put into practice what we had learned on **HTM
 <img height="200" src="/screenshots/mobile-gallery.png" alt="mobile gallery"/>
 </div>
 
-## Hosting
+### Hosting
 
 * GitHub pages
