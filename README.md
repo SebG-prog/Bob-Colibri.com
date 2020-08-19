@@ -1,5 +1,5 @@
 ## Bob-Colibri.com
-[The website can be found here!](https://sebg-prog.github.io/Bob-Colibri.com/)
+The website can be found [here!](https://sebg-prog.github.io/Bob-Colibri.com/)
 
 ### The Project
 This was our first internal project at the [Wild Code School](https://www.wildcodeschool.com/en-GB) (4 days of code, a week after the beginning of the Bootcamp). The main instruction was to develop **a responsive website** for a fictional photographer.
